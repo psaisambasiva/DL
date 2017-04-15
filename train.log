@@ -1,0 +1,5 @@
+Word vocab size: 10000
+Epoch: 1
+Learning rate: 1.000
+Train Perplexity: 347.665
+Valid Perplexity: 214.345
